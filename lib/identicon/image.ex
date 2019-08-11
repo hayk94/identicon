@@ -1,5 +1,5 @@
 defmodule Identicon.Image do
   @moduledoc false
 
-  defstruct hex: nil
+  defstruct hex: nil, color: nil
 end
